@@ -22,4 +22,4 @@ An interactive retail sales dashboard built using Microsoft Excel to analyze sal
 
 ## Project File
 
-[Download the Excel Dashboard](Retail_Sales_Analysis_Dashboard_2025.xlsx)
+[Download Excel Dashboard](Retail_Sales_Analysis_Dashboard_2025.xlsx)
